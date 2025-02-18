@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "./demo",
+    "outDir": "./demo-dist" // or any folder where you want to output compiled demo files
+  },
+  "include": ["demo/**/*"]
+}
