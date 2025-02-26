@@ -1,6 +1,6 @@
 {
   "name": "zust-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight state management solution based on Zustand",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -65,9 +65,9 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "zustand": "^5.0.3"
+    "react": ">=16.8.0 <20.0.0",
+    "react-dom": ">=16.8.0 <20.0.0",
+    "zustand": ">=3.7.2 <6.0.0"
   },
   "devDependencies": {
     "@jest/globals": "^29.7.0",

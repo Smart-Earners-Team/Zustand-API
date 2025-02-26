@@ -21,8 +21,6 @@ This package is designed to be easily integrated into any React project and is r
 
 - **Deep State Updates:**  
   Update nested properties easily using the `setDeep` method.
-- **Async Actions:**  
-  Handle asynchronous operations with the `dispatch` method.
 - **Middleware & Plugins:**  
   Extend your store with middleware and plugin support.
 - **Advanced Persistence:**
